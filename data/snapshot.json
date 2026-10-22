@@ -15,7 +15,7 @@
    "repo": "snaffler-ng",
    "at": "2026-10-21T13:02:26Z"
   },
-  "public_repos": 15,
+  "public_repos": 16,
   "followers": 2,
   "following": 3
  },
@@ -208,6 +208,21 @@
    "archived": false
   },
   {
+   "name": "SoftAndoWetto",
+   "description": "",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-10-22",
+   "pushed_at": "2026-10-22T11:33:42Z",
+   "created_at": "2026-10-22",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false
+  },
+  {
    "name": "SoftAndoWetto.github.io",
    "description": "",
    "language": "HTML",
@@ -255,7 +270,7 @@
  ],
  "langs": {
   "Shell": 23316,
-  "Python": 453402,
+  "Python": 477818,
   "HTML": 87486,
   "SCSS": 9128,
   "Ruby": 375,
@@ -305,6 +320,12 @@
    "langs": {
     "Python": 138790,
     "Shell": 1146
+   }
+  },
+  "SoftAndoWetto": {
+   "pushed_at": "2026-10-22T11:33:42Z",
+   "langs": {
+    "Python": 24416
    }
   },
   "SoftAndoWetto.github.io": {
