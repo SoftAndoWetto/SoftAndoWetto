@@ -1,0 +1,333 @@
+{
+ "user": {
+  "login": "SoftAndoWetto",
+  "name": "SoftAndoWetto",
+  "bio": "",
+  "location": "",
+  "company": "",
+  "created_at": "2024-11-12",
+  "email": "",
+  "blog": "",
+  "socials": [],
+  "orgs": [],
+  "last_event": {
+   "type": "PushEvent",
+   "repo": "snaffler-ng",
+   "at": "2026-10-21T13:02:26Z"
+  },
+  "public_repos": 15,
+  "followers": 2,
+  "following": 3
+ },
+ "totals": {
+  "stars": 0,
+  "forks": 1
+ },
+ "repos": [
+  {
+   "name": "BloodHound.py",
+   "description": "A Python based ingestor for BloodHound",
+   "language": "",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-07-28",
+   "pushed_at": "2026-07-28T10:34:16Z",
+   "created_at": "2026-07-28",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": true,
+   "archived": false
+  },
+  {
+   "name": "Config-Files",
+   "description": "Where I'm going to keep all my config files that I need to download on engagements",
+   "language": "Shell",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-10-21",
+   "pushed_at": "2026-10-21T10:11:40Z",
+   "created_at": "2026-08-18",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "CVE-2025-24367-PoC-Cacti",
+   "description": "Authenticated RCE PoC for Cacti (CVE\u20112025\u201124367). Uses graph template injection to write and execute a payload via the \u201cUnix \u2013 Logged in Users\u201d template. Intended for labs and controlled testing only.",
+   "language": "Python",
+   "stars": 0,
+   "forks": 1,
+   "pushed": "2025-12-15",
+   "pushed_at": "2025-12-15T13:37:13Z",
+   "created_at": "2025-12-14",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "ghosthound",
+   "description": "GhostHound is a BloodHound OpenGraph extension that surfaces Active Directory tombstone reanimation as a first-class attack path, enumerating deleted objects via SHOW_DELETED, mapping who can restore them, and revealing when a reanimated identity regains privileged group membership.",
+   "language": "",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-07-23",
+   "pushed_at": "2026-07-23T19:34:34Z",
+   "created_at": "2026-08-08",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": true,
+   "archived": false
+  },
+  {
+   "name": "GPOHound",
+   "description": "Offensive GPO dumping and analysis tool that leverages and enriches BloodHound data",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-07-30",
+   "pushed_at": "2026-07-30T13:35:52Z",
+   "created_at": "2026-07-28",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "https://www.cogiceo.com/en/whitepaper_gpphijacking/",
+   "fork": true,
+   "archived": false
+  },
+  {
+   "name": "IDKHound",
+   "description": "",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-08-17",
+   "pushed_at": "2026-08-17T18:04:59Z",
+   "created_at": "2026-07-26",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false,
+   "readme_blurb": ""
+  },
+  {
+   "name": "IEUK-2025-Engineering-Task",
+   "description": "",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2025-07-17",
+   "pushed_at": "2025-07-17T10:38:28Z",
+   "created_at": "2025-07-17",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Krbtime",
+   "description": "",
+   "language": "Shell",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-08-25",
+   "pushed_at": "2026-08-25T17:31:03Z",
+   "created_at": "2026-08-25",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false,
+   "readme_blurb": "wget https://raw.githubusercontent.com/SoftAndoWetto/Krbtime/refs/heads/main/krbtime"
+  },
+  {
+   "name": "ligolo-helper",
+   "description": "",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-07-12",
+   "pushed_at": "2026-07-12T08:38:57Z",
+   "created_at": "2026-07-11",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "NetExec",
+   "description": "The Network Execution Tool",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-09-28",
+   "pushed_at": "2026-09-28T17:16:17Z",
+   "created_at": "2026-09-01",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "https://netexec.wiki/",
+   "fork": true,
+   "archived": false
+  },
+  {
+   "name": "NXC-ESC-Modules",
+   "description": "",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-08-28",
+   "pushed_at": "2026-08-28T10:55:22Z",
+   "created_at": "2026-07-12",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false,
+   "readme_blurb": "A collection of NetExec (NXC) modules covering AD CS privilege escalation (ESC1, ESC4, ESC6, ESC8, ESC11) and lockout-aware password sprayi\u2026"
+  },
+  {
+   "name": "snaffler-ng",
+   "description": "Python port of Snaffler using Impacket",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-10-21",
+   "pushed_at": "2026-10-21T13:02:26Z",
+   "created_at": "2026-10-21",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": true,
+   "archived": false
+  },
+  {
+   "name": "SoftAndoWetto.github.io",
+   "description": "",
+   "language": "HTML",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-07-26",
+   "pushed_at": "2026-07-26T14:22:20Z",
+   "created_at": "2024-11-12",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "TheLookingGlass",
+   "description": "My OSINT Tool",
+   "language": "Java",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2025-04-04",
+   "pushed_at": "2025-04-04T16:19:20Z",
+   "created_at": "2025-01-24",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false
+  },
+  {
+   "name": "Triage-Report-Generator",
+   "description": "A powerful, feature-rich desktop application for creating professional vulnerability triage reports for HackerOne and bug bounty programs. Built with PyQt6, this tool streamlines the report writing process with intelligent automation and organization features.",
+   "language": "Python",
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-01-26",
+   "pushed_at": "2026-01-26T13:27:39Z",
+   "created_at": "2026-01-26",
+   "topics": [],
+   "open_issues": 0,
+   "homepage": "",
+   "fork": false,
+   "archived": false
+  }
+ ],
+ "langs": {
+  "Shell": 23316,
+  "Python": 453402,
+  "HTML": 87486,
+  "SCSS": 9128,
+  "Ruby": 375,
+  "Java": 48434,
+  "Dockerfile": 880,
+  "Batchfile": 57
+ },
+ "repo_langs": {
+  "Config-Files": {
+   "pushed_at": "2026-10-21T10:11:40Z",
+   "langs": {
+    "Shell": 21001
+   }
+  },
+  "CVE-2025-24367-PoC-Cacti": {
+   "pushed_at": "2025-12-15T13:37:13Z",
+   "langs": {
+    "Python": 9591
+   }
+  },
+  "IDKHound": {
+   "pushed_at": "2026-08-17T18:04:59Z",
+   "langs": {
+    "Python": 90582
+   }
+  },
+  "IEUK-2025-Engineering-Task": {
+   "pushed_at": "2025-07-17T10:38:28Z",
+   "langs": {
+    "Python": 16117
+   }
+  },
+  "Krbtime": {
+   "pushed_at": "2026-08-25T17:31:03Z",
+   "langs": {
+    "Shell": 1169
+   }
+  },
+  "ligolo-helper": {
+   "pushed_at": "2026-07-12T08:38:57Z",
+   "langs": {
+    "Python": 41907
+   }
+  },
+  "NXC-ESC-Modules": {
+   "pushed_at": "2026-08-28T10:55:22Z",
+   "langs": {
+    "Python": 138790,
+    "Shell": 1146
+   }
+  },
+  "SoftAndoWetto.github.io": {
+   "pushed_at": "2026-07-26T14:22:20Z",
+   "langs": {
+    "HTML": 87486,
+    "SCSS": 9128,
+    "Ruby": 375
+   }
+  },
+  "TheLookingGlass": {
+   "pushed_at": "2025-04-04T16:19:20Z",
+   "langs": {
+    "Java": 48434,
+    "Dockerfile": 880,
+    "Batchfile": 57
+   }
+  },
+  "Triage-Report-Generator": {
+   "pushed_at": "2026-01-26T13:27:39Z",
+   "langs": {
+    "Python": 156415
+   }
+  }
+ }
+}
